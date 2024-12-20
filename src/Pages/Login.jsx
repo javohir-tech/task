@@ -74,7 +74,7 @@ export default function Login() {
                             </div>
                         </div>
                         <div className='text-center mt-3 md:hidden'>
-                            <Link to="/register" className="link link-secondary font-medium">Login Page</Link>
+                            <Link to="/register" className="link link-secondary font-medium">Register Page</Link>
                         </div>
                     </Form>
                 </div>
